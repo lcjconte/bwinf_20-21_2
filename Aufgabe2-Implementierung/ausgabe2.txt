@@ -1,0 +1,18 @@
+Ergebnisse für spiesse2.txt
+Laufzeit: 0.00016690000000000454
+Wahrscheinlichkeit, dass Schüssel i gesuchte Frucht enthält: 1 0 0 0 1 1 1 0 0 1 1 0
+Schüsseln, die gesuchte Früchte enthalten: 1 5 6 7 10 11
+Schüsseln, die gesuchte Früchte enthalten könnten: 
+Mögliche Schüsseln für jede Frucht:
+Apfel 1
+Banane 10 11 5
+Clementine 10 11 5
+Himbeere 10 11 5
+Kiwi 6
+Litschi 7
+Dattel 9 2
+Erdbeere 8
+Feige 9 2
+Johannisbeere 4
+Ingwer 12
+Grapefruit 3

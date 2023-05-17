@@ -1,0 +1,12 @@
+Ergebnisse für spiesse0.txt
+Laufzeit: 8.049999999999724e-05
+Wahrscheinlichkeit, dass Schüssel i gesuchte Frucht enthält: 1 0 1 1 0 0
+Schüsseln, die gesuchte Früchte enthalten: 1 3 4
+Schüsseln, die gesuchte Früchte enthalten könnten: 
+Mögliche Schüsseln für jede Frucht:
+Weintraube 3
+Brombeere 1 4
+Apfel 1 4
+Banane 5
+Pflaume 6
+Erdbeere 2
